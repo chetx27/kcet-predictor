@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+
+# Workspace specific
+client/node_modules/
+client/dist/
+server/node_modules/
+server/dist/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
