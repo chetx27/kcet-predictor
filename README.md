@@ -2,9 +2,8 @@
 
 > KCET 2026 Rank Predictor & College Admission Intelligence Platform
 
-A production-grade web app that predicts your KCET rank, finds matching colleges based on your reservation category and quota claims, and provides 10 years of historical cutoff data.
 
-## Quick Start
+## Setup
 
 ### 1. Database Setup
 
@@ -20,7 +19,7 @@ cd server && npm install
 
 # Client
 cd client && npm install
-```
+``
 
 ### 3. Run Development Servers
 
