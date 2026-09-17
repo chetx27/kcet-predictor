@@ -2,7 +2,6 @@
 
 > KCET 2026 Rank Predictor & College Admission Intelligence Platform
 
-
 ## Setup
 
 ### 1. Database Setup
