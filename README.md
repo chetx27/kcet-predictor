@@ -4,13 +4,13 @@
 
 ## Setup
 
-### 1. Database Setup
+## 1. Database Setup
 
 1. Create a free [Supabase](https://supabase.com) project
 2. Go to **SQL Editor** and run the contents of `schema.sql`
 3. Copy `.env.example` to `.env` and fill in your Supabase credentials
 
-### 2. Install Dependencies
+## 2. Install Dependencies
 
 ```bash
 # Server
